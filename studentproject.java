@@ -4,7 +4,7 @@ class Student {
     String grade;
 
     Student() {
-        System.out.println("***** STUDENT REPORT *****");
+        System.out.println("**********");
         id = 101;
         name = "anisha";
         grade = "11";
